@@ -1,27 +1,34 @@
-**Arquitetura das Pastas**
+# **Arquitetura das Pastas**
 
-/assets
+## **/assets**
 Contém os recursos estáticos do aplicativo, como ícones e imagens: Android/iOS.
 
-logo.png: Logo do aplicativo.
-/src
+- **logo.png**: Logo do aplicativo.
+
+## **/src**
 O diretório principal do código-fonte do projeto.
 
-/config
-firebaseConfig.js: Configuração do Firebase para autenticação e armazenamento de dados.
-/contexts
+### **/config**
+- **firebaseConfig.js**: Configuração do Firebase para autenticação e armazenamento de dados.
+
+### **/contexts**
 Armazena os contextos do React para gerenciar o estado global:
 
-AuthContext.js: Gerencia o estado de autenticação do usuário (login, logout, etc.).
-CartoesEstudoContext.js: Gerencia o estado relacionado aos cartões de estudo (carregamento, adição, edição e exclusão).
-/screens
+- **AuthContext.js**: Gerencia o estado de autenticação do usuário (login, logout, etc.).
+- **CartoesEstudoContext.js**: Gerencia o estado relacionado aos cartões de estudo (carregamento, adição, edição e exclusão).
+
+### **/screens**
 Contém as telas do aplicativo:
 
-EdicaoCartaoScreen.js: Tela para editar os cartões de estudo.
-ListaCartaoScreen.js: Tela que exibe a lista de cartões de estudo.
-LoginScreen.js: Tela de login do aplicativo.
-RegistroScreen.js: Tela para registro de novos usuários.
-TarefasVencimentoProximoScreen.js: Tela que exibe tarefas com vencimento próximo.
+- **EdicaoCartaoScreen.js**: Tela para editar os cartões de estudo.
+- **ListaCartaoScreen.js**: Tela que exibe a lista de cartões de estudo.
+- **LoginScreen.js**: Tela de login do aplicativo.
+- **RegistroScreen.js**: Tela para registro de novos usuários.
+- **TarefasVencimentoProximoScreen.js**: Tela que exibe tarefas com vencimento próximo.
+
+## **Evidências**
+**study_app**
+
 
 **Evidencias study_app**
 
