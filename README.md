@@ -26,17 +26,14 @@ Contém as telas do aplicativo:
 - **RegistroScreen.js**: Tela para registro de novos usuários.
 - **TarefasVencimentoProximoScreen.js**: Tela que exibe tarefas com vencimento próximo.
 
-## **Evidências**
-**study_app**
 
-
-**Evidencias study_app**
+## **Evidencias study_app**
 
 ![image](https://github.com/user-attachments/assets/f21087f6-895c-4599-9aba-29b02ca8ed88)
 ![image](https://github.com/user-attachments/assets/df4fae70-6b0d-4e62-9405-278fc3d1b586)
 ![image](https://github.com/user-attachments/assets/5a6024b9-090e-4723-8009-7469324f8908)
 
-**Bibliotecas Utilizadas**
+## **Bibliotecas Utilizadas**
 
 Bibliotecas Principais
 react-native: Framework para desenvolvimento de aplicativos móveis nativos.
