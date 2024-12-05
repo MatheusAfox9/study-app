@@ -1,7 +1,7 @@
 import React, { useContext, useState, useEffect } from 'react';
 import { View, Text, TextInput, Button, StyleSheet, TouchableOpacity } from 'react-native';
 import { Picker } from '@react-native-picker/picker';
-import CartoesEstudoContext from '../contexts/CartoesEstudoContext';
+import CartoesEstudoContext from '../contexts/CartoesEstudosContext';
 import DateTimePickerModal from 'react-native-modal-datetime-picker';
 import { MaterialIcons } from 'react-native-vector-icons';
 

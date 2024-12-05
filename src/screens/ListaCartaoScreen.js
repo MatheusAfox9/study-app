@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 import { View, Text, FlatList, TouchableOpacity, StyleSheet, Alert } from 'react-native';
-import CartoesEstudoContext from '../contexts/CartoesEstudoContext';
+import CartoesEstudoContext from '../contexts/CartoesEstudosContext';
 import { MaterialIcons } from 'react-native-vector-icons';
 
 const ListaCartaoScreen = ({ navigation }) => {

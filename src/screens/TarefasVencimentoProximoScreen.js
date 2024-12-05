@@ -1,6 +1,6 @@
 import { View, Text, FlatList, StyleSheet } from 'react-native'
 import React, { useContext } from 'react'
-import CartoesEstudoContext from '../contexts/CartoesEstudoContext'
+import CartoesEstudoContext from '../contexts/CartoesEstudosContext'
 
 const TarefasVencimentoProximoScreen = () => {
 

@@ -2,7 +2,7 @@ import React, { useContext } from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { AuthProvider, AuthContext } from './src/contexts/AuthContext';
-import { ProvedorCartoesEstudo } from './src/contexts/CartoesEstudoContext';
+import { ProvedorCartoesEstudo } from './src/contexts/CartoesEstudosContext';
 import ListaCartaoScreen from './src/screens/ListaCartaoScreen';
 import EdicaoCartaoScreen from './src/screens/EdicaoCartaoScreen';
 import TarefasVencimentoProximoScreen from './src/screens/TarefasVencimentoProximoScreen';
