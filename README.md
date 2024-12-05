@@ -1,4 +1,4 @@
-Arquitetura das Pastas
+**Arquitetura das Pastas**
 
 /assets
 Contém os recursos estáticos do aplicativo, como ícones e imagens: Android/iOS.
